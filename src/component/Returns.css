@@ -1,0 +1,8 @@
+.Returns h2{
+    text-align: center;
+    margin-top: 50px;
+    border: 1px solid gray;
+    width: 400px;
+    margin-right: auto;
+    margin-left: auto;
+}
